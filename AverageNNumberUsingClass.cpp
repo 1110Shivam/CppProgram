@@ -29,5 +29,5 @@ int main()
 {
    Average obj;
    obj.get();
-    obj.aver();
+   obj.aver();
 }
